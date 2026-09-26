@@ -1,0 +1,19 @@
+name: uhpc-transfer
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.9
+  - pandas=2.3.3
+  - numpy=2.3.5
+  - scipy=1.16.3
+  - scikit-learn=1.7.2
+  - matplotlib=3.10.6
+  - joblib=1.5.2
+  - openpyxl
+  - jupyterlab
+  - pip
+  - pip:
+      - catboost==1.2.10
+      - xgboost==3.2.0
+      - lightgbm==4.6.0
+      - shap==0.51.0
