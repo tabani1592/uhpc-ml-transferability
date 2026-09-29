@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "uhpc-ml-transferability: Code for cross-study validation of UHPC strength models"
+authors:
+  - family-names: Tabani
+    given-names: Ahmadullah
+    affiliation: "Visvesvaraya National Institute of Technology, Nagpur"
+    orcid: "https://orcid.org/0009-0009-2176-9269"
+  - family-names: Biswas
+    given-names: Rahul
+    affiliation: "Visvesvaraya National Institute of Technology, Nagpur"
+version: "1.0.0"
+date-released: "2026-09-29"
+license: MIT
+repository-code: "https://github.com/tabani1592/uhpc-ml-transferability"
